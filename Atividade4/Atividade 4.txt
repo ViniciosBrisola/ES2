@@ -1,0 +1,23 @@
+﻿Situação Atual e Problemas:
+
+
+Patricia, a secretária da empresa, atualmente enfrenta desafios no controle do uso das salas de reunião. Ela utiliza pastas de trabalho em Excel, com várias planilhas para cada mês do ano. Cada planilha representa um dia do mês e possui colunas para horários e salas de reunião. Além disso, Patricia mantém um controle separado com informações dos funcionários e suas respectivas alocações. A necessidade de realocação de reuniões é frequente, e os diretores frequentemente consultam Patricia para verificar a disponibilidade das salas em determinadas datas e horários, bem como o número de lugares em cada sala.
+
+
+Proposta de Solução:
+
+
+Para resolver esses desafios, propõe-se o desenvolvimento de um sistema de gerenciamento de salas de reunião. Este sistema substituirá o uso das planilhas do Excel, oferecendo uma solução mais eficiente e organizada. O sistema permitirá o agendamento, realocação e cancelamento de reuniões, com uma interface amigável para inserir informações sobre funcionários, cargos, ramais e detalhes das reuniões. Além disso, o sistema será capaz de gerar relatórios sobre a disponibilidade das salas em datas e horários específicos, bem como o número de lugares em cada sala. Com essa solução, Patricia e outros usuários terão mais facilidade e eficiência no gerenciamento das salas de reunião.
+
+
+Lista de Requisitos Funcionais:
+
+
+1. Cadastro de funcionários com informações como nome, cargo e ramal.
+2. Cadastro de salas de reunião com informações como nome e capacidade de lugares.
+3. Agendamento de reuniões com data, horário, sala e participantes.
+4. Realocação de reuniões, permitindo alterações de sala, data e horário.
+5. Cancelamento de reuniões.
+6. Consulta de disponibilidade das salas em datas e horários específicos.
+7. Geração de relatórios com a disponibilidade das salas e o número de lugares em cada uma.
+8. Interface intuitiva e amigável para facilitar o uso por parte de Patricia e outros usuários.
